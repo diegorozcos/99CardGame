@@ -1,6 +1,6 @@
 # 99 Card Game
 
-This console-based game simulates the cards game, called 99
+This console-based game simulates the cards game, called 99.
 
 # How it works
 You will be prompted with 4 inputs with the names of the players.  
@@ -12,6 +12,19 @@ Now, each player selects which card to play.
 Each player has 4 lives. When someone loses a life, the card will be reset and a new round will start.  
 
 Last one standing wins. 
+
+# How to run 
+Simply clone this project:  
+```bash
+git clone <URL>
+```
+And run the Python program:  
+```bash
+python3 main.py
+```
+
+# Dependencies
+Have the latest `Python` version.
 
 # License
 This code was made by Diego Orozco as part of a class project.
